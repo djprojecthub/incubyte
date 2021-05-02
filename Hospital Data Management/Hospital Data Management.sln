@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Hospital Data Management", "Hospital Data Management\Hospital Data Management.dtproj", "{D4E786B5-5C98-4638-B2B2-1E52DE8BE7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E786B5-5C98-4638-B2B2-1E52DE8BE7BD}.Development|Default.ActiveCfg = Development
+		{D4E786B5-5C98-4638-B2B2-1E52DE8BE7BD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939E7293-1AF5-4C3E-8FC6-A99643A573B9}
+	EndGlobalSection
+EndGlobal
